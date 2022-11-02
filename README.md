@@ -1,5 +1,3 @@
-# vlee101.github.io
-
 <html>
     <body>
         <h1> Hello Humans </h1>
