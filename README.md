@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html>
     <body>
-        <p> Trying to figure out how to make a personal webpage</p>
+        <h1> Hello World </h1>
+        <p> This is a test trial</p>
     </body>
 </html>
