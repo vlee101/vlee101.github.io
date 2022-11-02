@@ -1,5 +1,7 @@
-name: ""
-title: null
+---
+layout: default
+title: Vicky Landing
+---
 <header>
   <!-- TL;DR -->
 </header>
