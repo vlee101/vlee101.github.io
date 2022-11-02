@@ -1,10 +1,5 @@
----
-title-heading: false
----
+title: false
 
-# Hope this works???
-
-This is my content.
 <html>
     <body>
         <h1> Hello Humans </h1>
