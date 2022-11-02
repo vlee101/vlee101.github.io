@@ -2,7 +2,7 @@
 layout: default
 title: Vicky Landing
 ---
-
+<!DOCTYPE html>
 <html>
     <body>
         <h1> Hello Humans </h1>
