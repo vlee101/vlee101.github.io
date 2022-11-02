@@ -2,15 +2,14 @@
 layout: default
 title: Vicky Landing
 ---
-<header>
-  <!-- TL;DR -->
-</header>
 
 <html>
     <body>
         <h1> Hello Humans </h1>
         <p> This is a test</p>
         <p> Help why </p>
-        <a herf=aboutme.html> About me!! <a>
+        <nav>
+            <a href="/aboutme.html">About Me!!</a>
+        </nav>
     </body>
 </html>
