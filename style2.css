@@ -31,11 +31,12 @@ body{
 
 .bubbles{
     z-index: -100;
-    position: relative;
+    position: fixed;
     display: flex;
 }
 
 .bubbles span{
+    display: flex;
     position: relative;
     width: 30px;
     height: 30px;
