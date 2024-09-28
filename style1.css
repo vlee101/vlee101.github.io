@@ -80,8 +80,5 @@ footer {
     width: 100%;
     text-align: left;
     height: 45 px;
-    position:fixed;
-    background-color: rgb(241, 241, 241);
-    background-image: url("pngs/star.png");
-    background-repeat: repeat;
+    position:sticky;
 }
