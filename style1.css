@@ -84,28 +84,20 @@ footer {
 }
 
 .progress{
-    border-radius: 7px;
     width: 200px;
     height: 30px;
     background: rgb(184, 184, 184);
     margin-bottom: 10px;
     position: relative;
+    
+    outline: none;
+    border-color: #efd4d4;
+    box-shadow: 0 0 15px #ecc6c6;
 }
 
 .progress-fill{
-    border-radius: 7px;
     background: rgb(148, 147, 147);
     position: absolute;
     width: 100%;
     height: 100%;
-}
-
-.glowing-border {
-    border: 2px solid #dadada;
-    border-radius: 7px;
-    width: 198px;
-    height: 27px;
-    outline: none;
-    border-color: #b0cce3;
-    box-shadow: 0 0 10px #b0cce3;
 }

@@ -30,7 +30,6 @@ function dateTime() {
 
 function secondRunner(seconds){
     const progressBar = document.querySelector(".progress-fill");
-    console.log(seconds);
         let progressWidth = seconds/60 *100
         if(seconds>0){
             progressBar.style.width = progressWidth +"%";
