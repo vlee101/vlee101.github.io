@@ -82,3 +82,30 @@ footer {
     height: 45 px;
     position:sticky;
 }
+
+.progress{
+    border-radius: 7px;
+    width: 200px;
+    height: 30px;
+    background: rgb(184, 184, 184);
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.progress-fill{
+    border-radius: 7px;
+    background: rgb(148, 147, 147);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.glowing-border {
+    border: 2px solid #dadada;
+    border-radius: 7px;
+    width: 198px;
+    height: 27px;
+    outline: none;
+    border-color: #b0cce3;
+    box-shadow: 0 0 10px #b0cce3;
+}
