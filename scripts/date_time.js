@@ -10,7 +10,7 @@ function dateTime() {
     const minuteI = now.getMinutes();
     var minute;
     var time;
-    var weekDayNum;
+    var weekDayNum = now.getDay();
 
     if (minuteI<10){
         minute = "0"+ minuteI;
