@@ -19,10 +19,6 @@ function dateTime() {
         minute = minuteI;
     }
     time = now.getHours() + ":" + minute;
-    if(now.getDay()==0)
-        weekDayNum = now.getDay();
-    else
-        weekDayNum = now.getDay()-1;
     document.getElementById("dateTime").innerHTML = now.getFullYear() + " " + month[now.getMonth()] + monthDate[now.getDate()-1] + "號 " + time + " 星期" + weekDay[weekDayNum];
     secondRunner(now.getSeconds());
     setTimeout(dateTime, 1000);
