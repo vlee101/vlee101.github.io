@@ -35,8 +35,9 @@ body{
 }
 
 .btn-1 {
-    width:300px;
-    height: 100px;
+    width: auto;
+    height: auto;
+    padding: 10px;
     border: none;
     color: mintcream;
     background-color: lightgray;
@@ -48,14 +49,15 @@ body{
 }
 
 .btn-1:hover:hover{
-    box-shadow: inset 400px 0 0 0 darkgray;
+    box-shadow: inset 1000px 0 0 0 darkgray;
     cursor: pointer;
     color: rgb(64,64,64);
 }
 
 .btn-2 {
-    width:400px;
-    height: 50px;
+    width: auto;
+    height: auto;
+    padding: 10px;
     border: none;
     color: mintcream;
     background-color: darkgray;
@@ -67,7 +69,7 @@ body{
 }
 
 .btn-2:hover{
-    box-shadow: inset 400px 0 0 0 gray;
+    box-shadow: inset 500px 0 0 0 gray;
     cursor: pointer;
     color: black;
 }
